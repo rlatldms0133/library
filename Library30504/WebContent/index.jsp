@@ -115,8 +115,10 @@
 				<ul>
 					<li><a href="#">정보공개알림</a></li>
 					<li><a href="#">개인정보처리방침</a></li>
-					<li><a href="#">행정서비스</a></li>
+					<li id="footinfo3"><a href="#">행정서비스</a></li>
 					<li><a href="#">이용규정</a></li>
+					<input type="text" placeholder="의견 남기기">
+					<button>확인</button>
 				</ul>
 			</div>
 			<p>(우)04340 서울 용산구 소월로 109 (후암동, 남산도서관) 
